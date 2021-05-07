@@ -1,0 +1,20 @@
+JavaScript tulajdonságok, alapok:
+
+- Objektum Orientált Prototípús alapú szkript nyelv, 
+  melyet weboldalak kliensen oldali logikájának programozására használnak.
+
+- Magaszintű programozási nyel, így az alacsony szintű nyelvektől eltérően nem kell foglalkozni,
+  például a memória felszabadítással, foglalásával.
+
+- Interpretált nyelv; a Java, a C# pedig fordítós nyelvek esetében szükség van egy fordítóra,
+   mivel a kódunkat először gépi kóddá kell alakítani,
+   amit a számítógép tud majd futtani, míg az interpreteres esetében, nincs szükség erre, 
+   mivel a JS esetében a böngészőben fog futni.
+   
+   (Interpretált nyelv hátrányai, például hogy hozzáférhető lesz a kód mások számára.
+   Hibákra csak futási időben derül fény.)
+
+- Nyelvre multiparadigma érvényés, mivel a kódunkat megírhatjuk objektum-orientáltan, avagy funkcionálisan.
+
+- Mivel a böngésző felülrő lefelé tölti be a HTML kódunkat, így érdemes a JS hivatkozást vagy kódot a HTML végére rakni,
+  mivel esetleges módosítások így végezhetőek el, azokon az elemeken, melyek már be vannak töltve.
